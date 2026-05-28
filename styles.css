@@ -213,3 +213,12 @@ p {
     left: 50%;
     transform: translateX(-50%);
 }
+
+.project-link {
+    color: inherit; 
+    text-decoration: none; 
+}
+
+.project-link:hover {
+    text-decoration: underline; 
+}
